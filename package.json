@@ -1,0 +1,23 @@
+{
+  "name": "@phading/constants",
+  "version": "0.1.0",
+  "description": "Shared constants between clients and servers.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phading-dev/constants.git"
+  },
+  "author": "Yuxuan Xie <teststaybaka@gmail.com> (http://www.yuxuanxie.com)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/phading-dev/constants/issues"
+  },
+  "homepage": "https://github.com/phading-dev/constants#readme",
+  "files": [
+    "**/*.d.ts",
+    "**/*.js"
+  ],
+  "devDependencies": {
+    "@selfage/tsconfig": "^1.0.7",
+    "typescript": "^4.9.5"
+  }
+}
