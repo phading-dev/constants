@@ -1,4 +1,5 @@
 export let USERNAME_LIMIT = 100;
+export let PASSWORD_LIMIT = 100;
 export let EMAIL_LIMIT = 200;
 export let NATURAL_NAME = 100;
 export let DESCRIPTION_LIMIT = 2000;
