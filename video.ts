@@ -1,0 +1,2 @@
+export let AUDIO_TRACKS_LIMIT = 32;
+export let SUBTITLE_TRACKS_LIMIT = 32;
