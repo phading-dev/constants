@@ -6,3 +6,4 @@ export let MAX_DESCRIPTION_LENGTH = 2000;
 export let MAX_AVATAR_SIZE = 50 * 1024 * 1024; // 50 MB
 export let LARGE_AVATAR_SIZE = 100; // px
 export let SMALL_AVATAR_SIZE = 40; // px
+export let MAX_ACCOUNTS_PER_USER = 10;
