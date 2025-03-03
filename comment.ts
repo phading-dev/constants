@@ -1,0 +1,1 @@
+export let MAX_CONTENT_LENGTH = 100;
