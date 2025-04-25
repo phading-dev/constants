@@ -1,1 +1,1 @@
-export let MAX_CONTENT_LENGTH = 100;
+export let MAX_CONTENT_LENGTH = 140;
