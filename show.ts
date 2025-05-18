@@ -1,4 +1,4 @@
-export let MAX_GRADE = 99;
+export let MAX_GRADE = 9999;
 export let MIN_GRADE_EFFECTIVE_GAP_DAY = 2;
 export let MAX_COVER_IMAGE_BUFFER_SIZE = 50 * 1024 * 1024; // 50 MB
 export let MAX_SEASON_NAME_LENGTH = 100;

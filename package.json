@@ -1,6 +1,6 @@
 {
   "name": "@phading/constants",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "description": "Shared constants between clients and servers.",
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "**/*.js"
   ],
   "devDependencies": {
-    "@selfage/cli": "^5.0.1",
+    "@selfage/cli": "^5.0.3",
     "@selfage/tsconfig": "^1.1.0",
     "typescript": "^5.6.3"
   }
