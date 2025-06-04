@@ -1,6 +1,6 @@
 {
   "name": "@phading/constants",
-  "version": "0.3.11",
+  "version": "0.3.12",
   "description": "Shared constants between clients and servers.",
   "repository": {
     "type": "git",
